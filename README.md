@@ -38,5 +38,5 @@ Feature rich  ecommerce app deveoped with react and django .
 2. Fire up the server
 
    ```bash
-   python3 manager.py runserver
+  npm start
    ```
