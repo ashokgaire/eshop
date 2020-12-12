@@ -4,7 +4,8 @@ Feature rich  ecommerce app deveoped with react and django .
 
 
 
-![demo](https://raw.githubusercontent.com/ashokgaire/GitProfile/master/static/screenshot.png)
+![demo](https://raw.githubusercontent.com/ashokgaire/ecommerce-app/main/screenshot/product.png)
+![demo](https://raw.githubusercontent.com/ashokgaire/ecommerce-app/main/screenshot/Screenshot%20at%202020-12-12%2009-51-03.png)
 
 
 ## Getting Started
